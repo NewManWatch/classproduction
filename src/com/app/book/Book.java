@@ -5,6 +5,9 @@ public class Book {
     private String bookName;
     private int    bookPage;
     public  Book ( String bookId,String bookName ,int bookPage){
+        setBookId(bookId);
+        setBookName(bookName);
+        setBookPage(bookPage);
 
     }
 
@@ -35,6 +38,6 @@ public class Book {
 
     @Override
     public String toString() {
-        return this.bookId + this.bookName + this.bookPage;
+        return this.bookId +"  "+ this.bookName+"  " + this.bookPage;
     }
 }
