@@ -1,4 +1,11 @@
 package com.app.book;
+/*
+ *   作者：NewManWatch
+ *   时间：2019-10-22 22:34:38
+ *   目的： 1测试构造方法对数据的初始化
+ *         2测试Book toString方法的复写
+ *
+ * */
 
 public class Book {
     private String bookId;
