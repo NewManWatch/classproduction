@@ -8,9 +8,17 @@ package com.app.book;
 * */
 public class main {
     public static final void main(String[] args){
-        Book book =new Book("IMB001","test",90);
+        /*Book book =new Book("IMB001","test",90);
         System.out.print(book.toString()+"\n");
-        Dictionary dictionary = new Dictionary("M001","testd",46,21);
-        System.out.print(dictionary.toString());
+        Dictionary dictionary = new Dictionary("M002","testd",46,21);
+        System.out.print(dictionary.toString());*/
+        //test two
+        Book newBook = new Book("003","test3",34);
+        Book newDictionary = new Dictionary("004","test4" ,44,54);
+        printStr(newBook.toString());
+        printStr(newDictionary.toString());
+    }
+    public static  void printStr(String nowStr){
+        System.out.print(nowStr+"\n");
     }
 }

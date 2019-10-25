@@ -45,6 +45,6 @@ public class Book {
 
     @Override
     public String toString() {
-        return this.bookId +"  "+ this.bookName+"  " + this.bookPage;
+        return TheConstantOfString.BOOK_HEAD+ this.bookId +"  "+ this.bookName+"  " + this.bookPage;
     }
 }

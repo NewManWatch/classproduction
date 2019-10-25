@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2542db4b-9abe-43a5-9e7d-0548d5837a55" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/app/book/TheConstantOfString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classproduction/com/app/book/Dictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classproduction/com/app/book/Dictionary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classproduction/com/app/book/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classproduction/com/app/book/main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/app/book/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/app/book/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/app/book/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/app/book/Dictionary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/app/book/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/app/book/main.java" afterDir="false" />
@@ -122,7 +121,10 @@
       <workItem from="1571667963028" duration="742000" />
       <workItem from="1571670376795" duration="1089000" />
       <workItem from="1571672352280" duration="611000" />
-      <workItem from="1571753360331" duration="1777000" />
+      <workItem from="1571753360331" duration="2449000" />
+      <workItem from="1571831896988" duration="3602000" />
+      <workItem from="1571912350357" duration="919000" />
+      <workItem from="1571994877619" duration="692000" />
     </task>
     <servers />
   </component>
@@ -141,6 +143,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/classproduction$main.ic" NAME="main Coverage Results" MODIFIED="1571671204361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

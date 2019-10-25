@@ -12,6 +12,7 @@ public class Dictionary extends Book {
     private int auxiliaryDictionaryPage;
     public Dictionary(String bookId,String bookName ,int bookPage,int auxiliaryDictionaryPage){
         super(bookId, bookName, bookPage);
+        setAuxiliaryDictionaryPage(auxiliaryDictionaryPage);
     }
     public int getAuxiliaryDictionaryPage() {
         return auxiliaryDictionaryPage;
@@ -23,11 +24,11 @@ public class Dictionary extends Book {
 
     @Override
     public String getBookId() {
-        return "D001" + super.getBookId();
+        return  TheConstantOfString.DICTIONARY_HEAD + super.getBookId();
     }
 
     @Override
     public String toString() {
-        return getBookId() +"  "+ getBookName()+"  " + getBookPage() + this.getAuxiliaryDictionaryPage();
+        return  getBookId() +"  "+ getBookName()+"  " + getBookPage() +"  " + this.getAuxiliaryDictionaryPage();
     }
 }
