@@ -5,6 +5,12 @@ public class Book {
     private int    page;
     private int    much;
 
+    public Book(String name, int page, int much) {
+        this.name = name;
+        this.page = page;
+        this.much = much;
+    }
+
     public String getName() {
         return name;
     }

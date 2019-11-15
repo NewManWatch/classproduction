@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2542db4b-9abe-43a5-9e7d-0548d5837a55" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/app/five/DOone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/app/five/action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/app/five/dotwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/app/five/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/app/six/into.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/app/six/ride.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/app/six/ridimpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/app/six/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/app/six/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/app/six/Maganze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/app/six/Maganze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/app/six/Novel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/app/six/Novel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/app/six/Periodical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/app/six/Periodical.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/app/six/Textbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/app/six/Textbook.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -62,10 +67,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.app.book.main" />
+    <configuration name="into" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.app.six.into" />
       <module name="classproduction" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.app.book.*" />
@@ -103,7 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main" />
+        <item itemvalue="Application.into" />
       </list>
     </recent_temporary>
   </component>
@@ -127,6 +131,7 @@
       <workItem from="1571994877619" duration="692000" />
       <workItem from="1572430316014" duration="2313000" />
       <workItem from="1573809261224" duration="1123000" />
+      <workItem from="1573810517787" duration="2266000" />
     </task>
     <servers />
   </component>
